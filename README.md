@@ -28,3 +28,9 @@ Column Information:
     flag WFH / WFO: Whether the employee is WFH or WFO
     flag Problem WFH: Flag for whether there is a problem during WFH (Y:if there is a problem, N:if there is no problem)
     flag Safe: Flag for employee health condition (Y:if employee is healthy, N:if employee is sick)
+    
+Step by step making the model:
+1. Check null value in dataset
+2. Replace null value with string
+3. Check similarity in dataset with machine learning model
+4. Export result to csv
