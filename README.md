@@ -22,9 +22,9 @@ Column Information:
     List Pekerjaan Hari Ini / Today Work List (13.00 - 17.30): Today Afternoon Work List
     Rencana Pekerjaan Besok / Work Plan Next Day: Work list next day
     Kendala pekerjaan pada saat WFH / Problem during WFH: Whether there is a problem during WFH
-    Kondisi saya saat ini / My current condition: Employee condition 
-    monthyear:
-    ddmonthyear:
-    flag WFH / WFO:
-    flag Problem WFH:
-    flag Safe:
+    Kondisi saya saat ini / My current condition: Employee health condition
+    monthyear: Month and year of entry
+    ddmonthyear: Date, month, and year of entry 
+    flag WFH / WFO: Whether the employee is WFH or WFO
+    flag Problem WFH: Flag for whether there is a problem during WFH (Y:if there is a problem, N:if there is no problem)
+    flag Safe: Flag for employee health condition (Y:if employee is healthy, N:if employee is sick)
